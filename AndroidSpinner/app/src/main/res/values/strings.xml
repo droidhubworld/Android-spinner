@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android Spinner</string>
+
+    <string name="spinner_country_prompt">Choose a country</string>
+    <string-array name="country_list">
+        <item>India</item>
+        <item>United States</item>
+        <item>Singapore</item>
+        <item>Italy</item>
+        <item>Malaysia</item>
+        <item>France</item>
+        <item>Indonesia</item>
+        <item>New Zealand</item>
+    </string-array>
+
+</resources>
